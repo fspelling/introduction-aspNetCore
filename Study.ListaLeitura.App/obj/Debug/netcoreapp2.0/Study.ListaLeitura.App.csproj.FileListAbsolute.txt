@@ -1,0 +1,12 @@
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\bin\Debug\netcoreapp2.0\Study.ListaLeitura.App.deps.json
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\bin\Debug\netcoreapp2.0\Study.ListaLeitura.App.runtimeconfig.json
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\bin\Debug\netcoreapp2.0\Study.ListaLeitura.App.runtimeconfig.dev.json
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\bin\Debug\netcoreapp2.0\Study.ListaLeitura.App.dll
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\bin\Debug\netcoreapp2.0\Study.ListaLeitura.App.pdb
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.csprojAssemblyReference.cache
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.AssemblyInfo.cs
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.dll
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.pdb
+C:\Projetos\poc\introduction-aspNetCore\Study.ListaLeitura.App\obj\Debug\netcoreapp2.0\Study.ListaLeitura.App.genruntimeconfig.cache

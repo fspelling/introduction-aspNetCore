@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\poc\\introduction-aspNetCore\\Study.ListaLeitura.App\\Study.ListaLeitura.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\poc\\introduction-aspNetCore\\Study.ListaLeitura.App\\Study.ListaLeitura.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\poc\\introduction-aspNetCore\\Study.ListaLeitura.App\\Study.ListaLeitura.App.csproj",
+        "projectName": "Study.ListaLeitura.App",
+        "projectPath": "C:\\Projetos\\poc\\introduction-aspNetCore\\Study.ListaLeitura.App\\Study.ListaLeitura.App.csproj",
+        "packagesPath": "C:\\Users\\flentisco\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\poc\\introduction-aspNetCore\\Study.ListaLeitura.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\flentisco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
