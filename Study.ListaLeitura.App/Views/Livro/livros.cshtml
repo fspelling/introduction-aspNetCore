@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <ul>
+            @foreach(var livro in Viewbag.Livros)
+            {
+                <li>@livro.ToString()</li>
+            }
+        </ul>
+    </body>
+</html>
